@@ -1,0 +1,8 @@
+{
+  "name": "Eldritch Vanguard",
+  "description": "An immersive dark fantasy experience showcasing a legendary warrior forged in lightning and snow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
